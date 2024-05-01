@@ -12,7 +12,7 @@ Repositório sobre Git e GitHub do curso  versionamento de código com Git e Git
 
 | Aulas | Resumos |
 |-------|---------|
-| Gravando Alterações no Repositório Local | [Resumos]()|
+| Gravando Alterações no Repositório Local | [Resumo]()|
 
 ---
 
